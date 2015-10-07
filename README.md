@@ -1,6 +1,8 @@
 [remove]
 
 #### Initial Setup
+
+[![Join the chat at https://gitter.im/corbanb/boilerplate-frontend](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/corbanb/boilerplate-frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This set up is for static sites and not initailly set up to handle dynamic sites.  It can be retro fitted to make that happen, but it is not the case now.
 
 * Update project name in /README.md
